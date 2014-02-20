@@ -1,0 +1,41 @@
+.hidden{
+	display:none;
+}
+
+.slider{
+	background: none;
+	background-color: rgb(199, 199, 199);
+	height: 13px;
+	width: 600px;
+	cursor:pointer;
+}
+
+.slider .ui-slider-handle{
+	background: none;
+	background-color: rgb(124, 160, 204);
+	border: 1px solid rgb(83, 93, 165);
+	border-radius: 3px;
+	
+}
+
+.current-slider-container .slider{
+	background-color: rgb(108, 170, 199);
+}
+
+.likert-table{
+	width: 700px;
+	text-align:center;
+	margin: 10px auto;
+}
+
+.likert-table td{
+	width:80px;
+}
+
+.centered{
+	margin:auto;
+}
+
+.tac{
+	text-align:center;
+}

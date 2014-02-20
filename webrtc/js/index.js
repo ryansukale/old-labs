@@ -17,6 +17,8 @@ $(function(){
 		
 		recordRTC.stopRecording(function(audioURL) {
 			window.open(audioURL);
+			//recordRTC.save();
+			
 		});
 		
 	});

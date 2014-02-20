@@ -1,8 +1,8 @@
 Labs
 ========
-Some of my random experiments in js and css
+Some tiny experiments in js and css
 
-Bundled Frameworks.
+Bundled Frameworks - taken from the bootcamp project.
 ------------------
 - jQuery 
 - jQueryUI
